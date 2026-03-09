@@ -1,0 +1,1 @@
+Micromundo distribuído que simula um sistema de resposta a incidentes urbanos. Sensores detectam ocorrências e componentes como centro de monitoramento, central de coordenação e unidades de atendimento (ambulância, bombeiros, polícia e apoio logístico) cooperam para validar e responder a emergências.
